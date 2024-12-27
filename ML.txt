@@ -1,0 +1,11 @@
+Ml project 
+Geek
+ Moemn Adel 21-01131 
+Mohamed Ibrahim 21-01170 
+Meriam Aziz 21-00982 
+Nour Nabil 21-01366 
+Merna Mohamed 21-01092
+
+Algorithm idea (classifay human of health)
+
+SRC: https://colab.research.google.com/drive/1jyuSNMSMHmZH425hcQEVLA-NwS2uwf-A?usp=sharing
